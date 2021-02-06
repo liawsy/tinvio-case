@@ -9,3 +9,9 @@
 
 ## Deployment on Heroku App
 You can also view the page on `https://tinvio-case.herokuapp.com/`.
+
+## Tasks Attempted
+1. Use React/Typescript in implementation
+2. Add a visual loader when data is loading
+3. Mobile responsiveness (tried my best)
+4. Host the website for preview
